@@ -1,0 +1,22 @@
+{
+  "name": "find-single-item",
+  "version": "1.0.0",
+  "description": "Given an integer array, all items repeat 3 times except for just one item that appears once. Please find this single item.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuocHuy94/Find-single-item.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuocHuy94/Find-single-item/issues"
+  },
+  "homepage": "https://github.com/QuocHuy94/Find-single-item#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
